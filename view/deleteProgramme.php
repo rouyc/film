@@ -1,0 +1,1 @@
+<a class="waves-effect waves-light btn" href="./index.php?controller=adminProgramme&action=deleteProgramme&id=<?php echo $_GET['id']; ?>"><i class="material-icons left">clear</i>Supprimer</a>
